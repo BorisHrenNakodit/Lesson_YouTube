@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+E:\Visual Projekt\Lesson YouTube\Lesson 37_YoutubeCode\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\Visual Projekt\Lesson YouTube\Lesson 37_YoutubeCode\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> E:\Visual Projekt\Lesson YouTube\Lesson 37_YoutubeCode\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,5 @@
+﻿  test.cpp
+E:\Visual Projekt\Lesson YouTube\test\test\test\test.cpp(10,2): error C2059: синтаксическая ошибка: while
+E:\Visual Projekt\Lesson YouTube\test\test\test\test.cpp(11,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+E:\Visual Projekt\Lesson YouTube\test\test\test\test.cpp(16,3): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+E:\Visual Projekt\Lesson YouTube\test\test\test\test.cpp(14,4): error C2043: недопустимый break

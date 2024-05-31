@@ -1,0 +1,12 @@
+﻿  Lesson 53_MY (homework_10)Link Changing Places.cpp
+E:\Visual Projekt\Lesson YouTube\Lesson 53_MY (homework_10)Link Changing Places\Lesson 53_MY (homework_10)Link Changing Places\Lesson 53_MY (homework_10)Link Changing Places\Lesson 53_MY (homework_10)Link Changing Places.cpp(56,8): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+E:\Visual Projekt\Lesson YouTube\Lesson 53_MY (homework_10)Link Changing Places\Lesson 53_MY (homework_10)Link Changing Places\Lesson 53_MY (homework_10)Link Changing Places\Lesson 53_MY (homework_10)Link Changing Places.cpp(29): message : выполняется компиляция ссылки на экземпляр шаблон функции "void foo<double>(T &,T &)"
+          with
+          [
+              T=double
+          ]
+  Lesson 53_MY (homework_10)Link Changing Places.vcxproj -> E:\Visual Projekt\Lesson YouTube\Lesson 53_MY (homework_10)Link Changing Places\Lesson 53_MY (homework_10)Link Changing Places\x64\Debug\Lesson 53_MY (homework_10)Link Changing Places.exe
