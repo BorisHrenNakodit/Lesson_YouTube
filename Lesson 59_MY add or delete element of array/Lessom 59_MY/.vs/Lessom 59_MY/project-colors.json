@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c677be9-dfe7-4fa3-a3e9-1af70440421b": {
+      "ProjectGuid": "9c677be9-dfe7-4fa3-a3e9-1af70440421b",
+      "DisplayName": "Lessom 59_MY",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
