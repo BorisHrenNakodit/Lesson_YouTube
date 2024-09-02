@@ -37,7 +37,7 @@ istream& operator>> (istream& is, Point& point)
 
 int main()
 {
-	string path = "myFile.txt";
+	string path = "myFile.tx";
 
 
 	Point point(31, 51, 10);
@@ -45,7 +45,7 @@ int main()
 	cout << point << endl;
 
 
-	fstream fs;
+	/*fstream fs;
 	fs.open(path, fstream::in | fstream::out | fstream::app);
 	if (!fs.is_open())
 	{
@@ -67,14 +67,14 @@ int main()
 			}
 		}
 
-		/*fs << point << "\n";*/
+		fs << point << "\n";
 
 	}
 	fs.close();
+	
 
 
-
-	/*ofstream pFout;
+	ofstream pFout;
 	pFout.open(path, ofstream::app);
 
 	if (!pFout.is_open())
@@ -87,26 +87,27 @@ int main()
 		pFout.write((char*)&point, sizeof(Point));
 	}
 	pFout.close();
+	*/
+
 
 
 	ifstream fin;
-	fin.open(path);
-
-	if (!fin.is_open())
+	fin.exceptions(ifstream::badbit | ifstream::failbit);
+	
+	try
 	{
-		cout << "FAIL";
-	}
-	else
-	{
-		cout << "Open" << endl;
-
-		Point pnt;
-		while (fin.read((char*)&pnt, sizeof(Point)))
-		{
-			pnt.Print();
-		}
+		cout << "Try open file"<<endl;
 		fin.open(path);
-	}*/
+		cout << "File open" << endl;
+	}
+	catch (const ifstream::failure & err)
+	{
+		cout<< err.what()<<endl;
+		cout << err.code() << endl;
+		cout << "Error"<<endl;
+	}
+
+
 
 	return 0;
 }
