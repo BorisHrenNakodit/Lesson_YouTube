@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Projekt\\Lesson YouTube\\Lesson 124 ENUM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E807FAC-7A8C-4326-84AE-CF5E24B19B4C}|Lesson 124 ENUM\\Lesson 124 ENUM.vcxproj|E:\\Visual Projekt\\Lesson YouTube\\Lesson 124 ENUM\\Lesson 124 ENUM\\Lesson 124 ENUM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E807FAC-7A8C-4326-84AE-CF5E24B19B4C}|Lesson 124 ENUM\\Lesson 124 ENUM.vcxproj|solutionrelative:Lesson 124 ENUM\\Lesson 124 ENUM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson 124 ENUM.cpp",
+              "DocumentMoniker": "E:\\Visual Projekt\\Lesson YouTube\\Lesson 124 ENUM\\Lesson 124 ENUM\\Lesson 124 ENUM.cpp",
+              "RelativeDocumentMoniker": "Lesson 124 ENUM\\Lesson 124 ENUM.cpp",
+              "ToolTip": "E:\\Visual Projekt\\Lesson YouTube\\Lesson 124 ENUM\\Lesson 124 ENUM\\Lesson 124 ENUM.cpp",
+              "RelativeToolTip": "Lesson 124 ENUM\\Lesson 124 ENUM.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T06:39:13.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

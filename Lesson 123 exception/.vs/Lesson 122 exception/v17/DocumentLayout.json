@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Projekt\\Lesson YouTube\\Lesson 122 exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65EBB076-F946-4268-811E-7C98EC7DF1F6}|Lesson 122 exception\\Lesson 122 exception.vcxproj|E:\\Visual Projekt\\Lesson YouTube\\Lesson 122 exception\\Lesson 122 exception\\Lesson 122 exception.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65EBB076-F946-4268-811E-7C98EC7DF1F6}|Lesson 122 exception\\Lesson 122 exception.vcxproj|solutionrelative:Lesson 122 exception\\Lesson 122 exception.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson 122 exception.cpp",
+              "DocumentMoniker": "E:\\Visual Projekt\\Lesson YouTube\\Lesson 122 exception\\Lesson 122 exception\\Lesson 122 exception.cpp",
+              "RelativeDocumentMoniker": "Lesson 122 exception\\Lesson 122 exception.cpp",
+              "ToolTip": "E:\\Visual Projekt\\Lesson YouTube\\Lesson 122 exception\\Lesson 122 exception\\Lesson 122 exception.cpp",
+              "RelativeToolTip": "Lesson 122 exception\\Lesson 122 exception.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAFsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T06:24:58.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
