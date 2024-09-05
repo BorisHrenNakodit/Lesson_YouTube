@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git_repository\\Lesson_YouTube\\Lesson 126 type_class\\Lesson 126 type_class\\",
+  "WorkspaceRootPath": "E:\\Visual Projekt\\Lesson YouTube\\Lesson 126 type_class\\Lesson 126 type_class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{421F2F0D-1D53-4860-BAFC-95B417D089D5}|Lesson 126 type_class\\Lesson 126 type_class.vcxproj|D:\\Git_repository\\Lesson_YouTube\\Lesson 126 type_class\\Lesson 126 type_class\\Lesson 126 type_class\\Lesson 126 type_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{421F2F0D-1D53-4860-BAFC-95B417D089D5}|Lesson 126 type_class\\Lesson 126 type_class.vcxproj|E:\\Visual Projekt\\Lesson YouTube\\Lesson 126 type_class\\Lesson 126 type_class\\Lesson 126 type_class\\Lesson 126 type_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{421F2F0D-1D53-4860-BAFC-95B417D089D5}|Lesson 126 type_class\\Lesson 126 type_class.vcxproj|solutionrelative:Lesson 126 type_class\\Lesson 126 type_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lesson 126 type_class.cpp",
-              "DocumentMoniker": "D:\\Git_repository\\Lesson_YouTube\\Lesson 126 type_class\\Lesson 126 type_class\\Lesson 126 type_class\\Lesson 126 type_class.cpp",
+              "DocumentMoniker": "E:\\Visual Projekt\\Lesson YouTube\\Lesson 126 type_class\\Lesson 126 type_class\\Lesson 126 type_class\\Lesson 126 type_class.cpp",
               "RelativeDocumentMoniker": "Lesson 126 type_class\\Lesson 126 type_class.cpp",
-              "ToolTip": "D:\\Git_repository\\Lesson_YouTube\\Lesson 126 type_class\\Lesson 126 type_class\\Lesson 126 type_class\\Lesson 126 type_class.cpp",
+              "ToolTip": "E:\\Visual Projekt\\Lesson YouTube\\Lesson 126 type_class\\Lesson 126 type_class\\Lesson 126 type_class\\Lesson 126 type_class.cpp",
               "RelativeToolTip": "Lesson 126 type_class\\Lesson 126 type_class.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAcwC0AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwE4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-02T20:15:38.074Z",
               "EditorCaption": ""

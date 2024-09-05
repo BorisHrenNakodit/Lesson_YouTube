@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Projekt\\Lesson YouTube\\Lesson 128  specialization_type_class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2832C2D-4821-4CF4-AE86-4492F87172E7}|Lesson 128  specialization_type_class\\Lesson 128  specialization_type_class.vcxproj|E:\\Visual Projekt\\Lesson YouTube\\Lesson 128  specialization_type_class\\Lesson 128  specialization_type_class\\Lesson 128  specialization_type_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2832C2D-4821-4CF4-AE86-4492F87172E7}|Lesson 128  specialization_type_class\\Lesson 128  specialization_type_class.vcxproj|solutionrelative:Lesson 128  specialization_type_class\\Lesson 128  specialization_type_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson 128  specialization_type_class.cpp",
+              "DocumentMoniker": "E:\\Visual Projekt\\Lesson YouTube\\Lesson 128  specialization_type_class\\Lesson 128  specialization_type_class\\Lesson 128  specialization_type_class.cpp",
+              "RelativeDocumentMoniker": "Lesson 128  specialization_type_class\\Lesson 128  specialization_type_class.cpp",
+              "ToolTip": "E:\\Visual Projekt\\Lesson YouTube\\Lesson 128  specialization_type_class\\Lesson 128  specialization_type_class\\Lesson 128  specialization_type_class.cpp",
+              "RelativeToolTip": "Lesson 128  specialization_type_class\\Lesson 128  specialization_type_class.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T12:18:28.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
