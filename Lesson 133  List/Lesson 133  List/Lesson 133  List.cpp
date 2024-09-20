@@ -11,28 +11,31 @@ public:
 	List();
 	~List();
 
-
+	void insert(T value, int index);
+	void push_front(T data);
 	void pop_front();
-	void push_back(T data);
+	void push_back(T data);	
+	void pop_back();
+	void removeAt(int index);
 	void clear();
 	int GetSize() { return Size; }
 	T& operator[](const int index);
 
-private:	
+private:
 	template <typename T>
 	class Node
 	{
 	public:
 		Node* pNext;
 		T data;
-		Node(T data=T(), Node* pNext=nullptr)
+		Node(T data = T(), Node* pNext = nullptr)
 		{
 			this->data = data;
 			this->pNext = pNext;
 		}
 	};
 	int Size;
-	Node <T>* head;	
+	Node <T>* head;
 };
 
 template <typename T>
@@ -49,12 +52,48 @@ List<T>::~List()
 }
 
 template<typename T>
+void List<T>::insert(T value, int index)
+{
+	if (index == 0)
+	{
+		push_front(value);
+	}
+	else
+	{
+		Node <T>* previous = this->head;
+		for (int i = 0; i < index - 1; i++)
+		{
+			previous = previous->pNext;
+		}
+		
+		previous->pNext = new Node<T>(value, previous->pNext);
+
+		Size++;
+	}
+
+
+}
+
+template<typename T>
+void List<T>::push_front(T data)
+{
+	head = new Node<T>(data, head);
+	Size++;
+}
+
+template<typename T>
 void List<T>::pop_front()
 {
-	Node<T> *temp = head;
+	Node<T>* temp = head;
 	head = head->pNext;
 	delete temp;
 	Size--;
+}
+
+template<typename T>
+void List<T>::pop_back()
+{
+	removeAt(Size - 1);
 }
 
 template<typename T>
@@ -64,7 +103,7 @@ void List<T>::push_back(T data)
 	{
 		head = new Node<T>(data);
 	}
-	else 
+	else
 	{
 		Node<T>* current = this->head;
 
@@ -75,6 +114,32 @@ void List<T>::push_back(T data)
 		current->pNext = new Node<T>(data);
 	}
 	Size++;
+}
+
+template<typename T>
+void List<T>::removeAt(int index)
+{
+	if (index == 0)
+	{
+		pop_front();
+	}
+	else
+	{
+		Node <T>* previous = this->head;
+		for (int i = 0; i < index - 1; i++)
+		{
+			previous = previous->pNext;
+		}
+
+		/////
+
+		Node<T>* toDelete = previous->pNext;
+		previous->pNext = toDelete->pNext;
+		delete toDelete;
+		
+		Size--;
+	}
+
 }
 
 template<typename T>
@@ -91,7 +156,7 @@ T& List<T>::operator[](const int index)
 {
 	int counter = 0;
 	Node<T>* current = this->head;
-	while (current!=nullptr)
+	while (current != nullptr)
 	{
 		if (counter == index)
 		{
@@ -109,19 +174,44 @@ int main()
 {
 	List<int> lst;
 
+
+	lst.push_front(5);
+	lst.push_front(7);
+
 	lst.push_back(15);
 	lst.push_back(25);
 	lst.push_back(35);
 	lst.push_back(45);
 	lst.push_back(55);
-
+	
+	
 
 	for (int i = 0; i < lst.GetSize(); i++)
 	{
 		std::cout << lst[i] << std::endl;
 	}
 
-	std::cout << "coul element= " << lst.GetSize() << "  complite pop_front" << std::endl;
+	std::cout << "coul element= " << lst.GetSize() << "  complite insert" << std::endl;
+
+	lst.insert(3, 3);
+
+		for (int i = 0; i < lst.GetSize(); i++)
+		{
+			std::cout << lst[i] << std::endl;
+		}
+
+	std::cout << "coul element= " << lst.GetSize() << "  complite  removeAT" << std::endl;
+
+
+
+	lst.removeAt(3);
+
+	for (int i = 0; i < lst.GetSize(); i++)
+	{
+		std::cout << lst[i] << std::endl;
+	}
+
+	std::cout << "coul element= " << lst.GetSize() << "  complite  pop_front" << std::endl;
 
 	lst.pop_front();
 

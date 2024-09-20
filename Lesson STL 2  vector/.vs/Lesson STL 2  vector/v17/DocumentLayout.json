@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Projekt\\Lesson YouTube\\Lesson STL 2  vector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3F5887-BD6E-4F88-8E72-CC9FAAD4A38F}|Lesson STL 2  vector\\Lesson STL 2  vector.vcxproj|E:\\Visual Projekt\\Lesson YouTube\\Lesson STL 2  vector\\Lesson STL 2  vector\\Lesson STL 2  vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C3F5887-BD6E-4F88-8E72-CC9FAAD4A38F}|Lesson STL 2  vector\\Lesson STL 2  vector.vcxproj|solutionrelative:Lesson STL 2  vector\\Lesson STL 2  vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson STL 2  vector.cpp",
+              "DocumentMoniker": "E:\\Visual Projekt\\Lesson YouTube\\Lesson STL 2  vector\\Lesson STL 2  vector\\Lesson STL 2  vector.cpp",
+              "RelativeDocumentMoniker": "Lesson STL 2  vector\\Lesson STL 2  vector.cpp",
+              "ToolTip": "E:\\Visual Projekt\\Lesson YouTube\\Lesson STL 2  vector\\Lesson STL 2  vector\\Lesson STL 2  vector.cpp",
+              "RelativeToolTip": "Lesson STL 2  vector\\Lesson STL 2  vector.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwEIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T06:15:53.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
