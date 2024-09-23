@@ -10,41 +10,76 @@ using namespace std;
 
 
 template<typename T>
- void PrintList(const list<T> &lst){
-    for (auto i = lst.cbegin(); i != lst.cend(); i++)
-    {
-        
-        cout << *i << '\n';
-    }
-    cout << '\t';
+void PrintList(const list<T>& lst) {
+	for (auto i = lst.cbegin(); i != lst.cend(); i++)
+	{
+
+		cout << *i << '\n';
+	}
+	cout << '\n';
 }
 
 
 int main()
 {
 
-    list<int> myList = { 15,64,979 };
-    myList.push_back(5);
-    myList.push_front(151);
-    //list<int>::iterator it = myList.begin();
-    auto it = myList.begin(); 
+	list<int> myList = { 99,15,64,99,99,99,99,979,54,99 };
+	list<int> myList2 = { 1,2,3,4,5,6 };
+	/* myList.push_back(5);
+	 myList.push_front(151);*/
+	 //list<int>::iterator it = myList.begin();
+	//auto it = myList.begin();
 
-    myList.sort();  // Сортирует числа по возрастанию
-    
+	//cout << myList.size() << endl << endl;
+	//PrintList(myList);
 
-    PrintList(myList);
+	//auto in = myList.begin();
 
-    cout << "pop_front" << endl;
+	//myList.insert(in, 111); // добавить число на позицию итератора
+	//
+	//PrintList(myList);
 
-    myList.pop_front();
+	//++in;
+	//myList.erase(in); // удаляет элемент на позиции 
 
-    PrintList(myList);
+	//PrintList(myList);
+
+	//myList.remove(99);// удаляет элементы равного значения
+	//PrintList(myList);
 
 
-    //for (auto i = myList.begin(); i != myList.end(); i++)
-    //{
-    //    cout << *i << '\t';
-    //}
-    cout << endl;
+	myList.assign(3, 7676);// удаляет и переинициализирует нужным колличеством заданных хэлементво
+	PrintList(myList);
+
+	myList.assign(myList2.begin(), myList2.end()); //копирование 2 листа в первый
+
+		PrintList(myList);
+
+	// myList.sort();  // Сортирует числа по возрастанию  
+
+	//cout << "pop_front" << endl;
+	//myList.pop_front();
+
+   /* cout << "pop_back" << endl;
+	myList.pop_back();*/
+
+	/*cout << myList.size() << endl << endl;*/
+
+   /* PrintList(myList);
+
+	myList.unique();
+
+	PrintList(myList);
+
+	myList.reverse();
+
+	PrintList(myList);
+
+	myList.clear();*/
+	//for (auto i = myList.begin(); i != myList.end(); i++)
+	//{
+	//    cout << *i << '\t';
+	//}
+	cout << endl;
 }
 
