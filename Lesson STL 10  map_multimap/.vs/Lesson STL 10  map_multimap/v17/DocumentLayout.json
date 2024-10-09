@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Projekt\\Lesson YouTube\\Lesson STL 10  map_multimap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{777D76F8-72AA-418F-A9ED-24EDAFF04BCE}|Lesson STL 10  map_multimap\\Lesson STL 10  map_multimap.vcxproj|E:\\Visual Projekt\\Lesson YouTube\\Lesson STL 10  map_multimap\\Lesson STL 10  map_multimap\\Lesson STL 10  map_multimap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{777D76F8-72AA-418F-A9ED-24EDAFF04BCE}|Lesson STL 10  map_multimap\\Lesson STL 10  map_multimap.vcxproj|solutionrelative:Lesson STL 10  map_multimap\\Lesson STL 10  map_multimap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson STL 10  map_multimap.cpp",
+              "DocumentMoniker": "E:\\Visual Projekt\\Lesson YouTube\\Lesson STL 10  map_multimap\\Lesson STL 10  map_multimap\\Lesson STL 10  map_multimap.cpp",
+              "RelativeDocumentMoniker": "Lesson STL 10  map_multimap\\Lesson STL 10  map_multimap.cpp",
+              "ToolTip": "E:\\Visual Projekt\\Lesson YouTube\\Lesson STL 10  map_multimap\\Lesson STL 10  map_multimap\\Lesson STL 10  map_multimap.cpp",
+              "RelativeToolTip": "Lesson STL 10  map_multimap\\Lesson STL 10  map_multimap.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAMwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T13:13:41.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

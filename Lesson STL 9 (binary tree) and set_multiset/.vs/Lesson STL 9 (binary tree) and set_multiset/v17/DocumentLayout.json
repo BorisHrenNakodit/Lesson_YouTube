@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Projekt\\Lesson YouTube\\Lesson STL 9 (binary tree) and set_multiset\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B26F4D-F2A2-4F63-815B-E42810B6A5FC}|Lesson STL 9 (binary tree) and set_multiset\\Lesson STL 9 (binary tree) and set_multiset.vcxproj|E:\\Visual Projekt\\Lesson YouTube\\Lesson STL 9 (binary tree) and set_multiset\\Lesson STL 9 (binary tree) and set_multiset\\Lesson STL 9 (binary tree) and set_multiset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80B26F4D-F2A2-4F63-815B-E42810B6A5FC}|Lesson STL 9 (binary tree) and set_multiset\\Lesson STL 9 (binary tree) and set_multiset.vcxproj|solutionrelative:Lesson STL 9 (binary tree) and set_multiset\\Lesson STL 9 (binary tree) and set_multiset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson STL 9 (binary tree) and set_multiset.cpp",
+              "DocumentMoniker": "E:\\Visual Projekt\\Lesson YouTube\\Lesson STL 9 (binary tree) and set_multiset\\Lesson STL 9 (binary tree) and set_multiset\\Lesson STL 9 (binary tree) and set_multiset.cpp",
+              "RelativeDocumentMoniker": "Lesson STL 9 (binary tree) and set_multiset\\Lesson STL 9 (binary tree) and set_multiset.cpp",
+              "ToolTip": "E:\\Visual Projekt\\Lesson YouTube\\Lesson STL 9 (binary tree) and set_multiset\\Lesson STL 9 (binary tree) and set_multiset\\Lesson STL 9 (binary tree) and set_multiset.cpp",
+              "RelativeToolTip": "Lesson STL 9 (binary tree) and set_multiset\\Lesson STL 9 (binary tree) and set_multiset.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T11:58:09.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
